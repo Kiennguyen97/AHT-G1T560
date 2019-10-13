@@ -1,0 +1,1 @@
+cần tải chuyền thêm them g1team vào do có sửa đổi vài file template và js
